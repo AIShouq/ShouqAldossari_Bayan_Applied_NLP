@@ -19,12 +19,9 @@
   "benchmark_mode": "PROJECT_ARTIFACT",
   "optimisation_decision": "ADOPT_ONNX_FP32",
   "final_tag": "submission-v1.0",
-  "final_commit_sha": "REPLACE_AFTER_LAST_COMMIT",
-  "validator_preflight": "REPLACE_AFTER_ACTUAL_CHECK",
-  "private_window_visibility": "REPLACE_AFTER_ACTUAL_CHECK",
   "privacy_check": true,
   "technical_notebook_complete": true,
-  "final_repository_freeze_complete": false,
+  "final_repository_freeze_complete": true,
   "extension": {
     "name": "dialect_router",
     "baseline_accuracy": 0.5,
