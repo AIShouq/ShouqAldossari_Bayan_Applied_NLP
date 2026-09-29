@@ -1,0 +1,45 @@
+{
+  "student": "Shouq Khalid Aldossari",
+  "run_date": "2026-09-29",
+  "result_label": "MEASURED_SMOKE",
+  "technical_completion": "PASS",
+  "topic_test": {
+    "n": 8,
+    "baseline_macro_f1": 0.7333,
+    "transformer_macro_f1": 0.8667,
+    "accuracy": 0.875
+  },
+  "sentiment_test": {
+    "n": 8,
+    "baseline_macro_f1": 0.6667,
+    "transformer_macro_f1": 0.5333,
+    "accuracy": 0.75
+  },
+  "ner_test_f1": 0.6667,
+  "qa_answerable_em": 0.0,
+  "qa_answerable_token_f1": 0.0,
+  "qa_no_answer_accuracy": 0.5,
+  "search_before": {
+    "recall@10": 1.0,
+    "mrr@10": 0.75
+  },
+  "search_after": {
+    "recall@10": 1.0,
+    "mrr@10": 0.8194
+  },
+  "optimisation_decision": "ADOPT_ONNX_FP32",
+  "onnx_fp32_prediction_agreement": 1.0,
+  "http": {
+    "concurrency": 16,
+    "requests": 64,
+    "p95_ms": 1182.84,
+    "p99_ms": 1454.39,
+    "throughput_requests_s": 15.48
+  },
+  "extension": {
+    "baseline_accuracy": 0.5,
+    "extension_accuracy": 0.7778,
+    "benefit": 0.2778,
+    "added_p95_ms": 0.0876
+  }
+}
