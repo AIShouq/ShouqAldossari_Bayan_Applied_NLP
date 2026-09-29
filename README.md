@@ -130,12 +130,7 @@ PYTHONPATH=src python scripts/validate_submission.py . --require-tag
 PYTHONPATH=src python scripts/preflight_submission.py . --require-tag
 ```
 
-**Final commit SHA:** `REPLACE_AFTER_LAST_COMMIT`  
-**Validator/preflight:** `REPLACE_AFTER_ACTUAL_CHECK`  
-**Private-window visibility:** `REPLACE_AFTER_ACTUAL_CHECK`  
 **Release/tag:** `submission-v1.0`
-
-These three values are intentionally not fabricated and must be replaced only after the actual final checks.
 
 ## Final hand-in acknowledgement | إقرار التسليم النهائي
 
