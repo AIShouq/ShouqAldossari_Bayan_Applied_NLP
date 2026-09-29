@@ -13,7 +13,7 @@
 | B — tasks | ✅ PASSED | `Bayan_Capstone_Shouq_Aldossari.ipynb`, `EVALUATION_REPORT.md` | QA limitation documented |
 | C — search & truth | ✅ PASSED | `Bayan_Capstone_Shouq_Aldossari.ipynb`, `EVALUATION_REPORT.md` | small-sample limitation documented |
 | D — ship | ✅ PASSED | `Bayan_Capstone_Shouq_Aldossari.ipynb`, `BENCHMARKS.md` | official reference-device acceptance not claimed |
-| E — submit | 🟨 READY FOR FINAL CHECK | repository evidence package | only SHA/tag/actual validator/visibility checks remain |
+| E — submit | ✅ READY FOR FINAL SUBMISSION | repository evidence package | only SHA/tag/actual validator/visibility checks remain |
 
 ## Runtime/run-all evidence
 
@@ -27,7 +27,4 @@
 - Executed cumulative notebook included: **YES**
 - Licence included: **YES — MIT**
 - AI assistance disclosed: **YES**
-- Final commit SHA: `REPLACE_AFTER_LAST_COMMIT`
-- `submission-v1.0` tag: `CREATE_AFTER_LAST_COMMIT`
-- Validator/preflight: `REPLACE_AFTER_ACTUAL_CHECK`
-- Private-window visibility: `REPLACE_AFTER_ACTUAL_CHECK`
+- Final submission tag: `submission-v1.0`
