@@ -1,0 +1,28 @@
+{
+  "arabic": {
+    "input": "أحتاج معرفة حالة طلب التصريح",
+    "language": "ar",
+    "topic": "permit",
+    "sentiment": "neutral",
+    "entity": {
+      "text": "طلب التصريح",
+      "label": "SERVICE"
+    },
+    "top_similar_case": "AR-010",
+    "score": 0.5466218,
+    "latency_ms": 165.152
+  },
+  "english": {
+    "input": "The bus did not arrive on time",
+    "language": "en",
+    "topic": "transport",
+    "sentiment": "negative",
+    "top_similar_case": "EN-004",
+    "score": 0.6964291,
+    "latency_ms": 164.957
+  },
+  "rejected_input": {
+    "status_code": 422,
+    "detail": "text must not be empty"
+  }
+}
