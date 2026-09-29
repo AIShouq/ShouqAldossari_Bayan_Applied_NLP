@@ -40,6 +40,42 @@ flowchart LR
     E --> F
     F --> G["Evaluation + tested API"]
 ```
+## Repository structure
+
+```text
+ShouqAldossari_Bayan_Applied_NLP/
+├── notebooks/
+│   ├── 00_runtime_doctor.ipynb
+│   ├── 01_text_processing_tokenization.ipynb
+│   ├── 02_attention_transformers.ipynb
+│   ├── 03_text_classification.ipynb
+│   ├── 04_ner_and_qa.ipynb
+│   ├── 05_arabic_nlp.ipynb
+│   ├── 06_semantic_search.ipynb
+│   ├── 07_evaluation_error_analysis.ipynb
+│   └── 08_optimization_serving.ipynb
+├── reports/
+│   ├── technical_summary.json
+│   └── presentation_demo.json
+├── Bayan_Capstone_Shouq_Aldossari.ipynb
+├── README.md
+├── DATA_CARD.md
+├── MODEL_CARD.md
+├── EVALUATION_REPORT.md
+├── BENCHMARKS.md
+├── DECISIONS.md
+├── PROGRESS.md
+├── STUDENT_PROFILE.md
+├── PRESENTATION.md
+├── PROJECT_SUMMARY.json
+├── SUBMISSION.yml
+├── requirements-day1.txt
+├── requirements-day2.txt
+├── requirements-day3.txt
+├── requirements-day4.txt
+├── LICENSE
+└── .gitignore
+```
 
 ## Measured results
 
