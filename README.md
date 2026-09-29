@@ -116,10 +116,13 @@ AI assistance was used for code review, debugging support, explanation, document
 
 ## Training context | السياق التدريبي
 
-Developed during **Applied Natural Language Processing with Transformers (`SDA-AIE-211`)** in the **SDAIA Academy** training context.  
-Trainer: **Meaad Al-Marri — ميعاد المري**  
+This educational project was developed during **Applied Natural Language Processing with Transformers (`SDA-AIE-211`)** in the **SDAIA Academy** training context.
+
+Academy | الأكاديمية: [SDAIA Academy](https://github.com/SDAIAAcademy)  
+Trainer | المدربة: **Meaad Al-Marri — ميعاد المري**  
 Course source: https://github.com/almiyead-rgb/bayan-applied-nlp-course  
-`#SDAIAAcademy`
+
+#SDAIAAcademy
 
 ## Final validation
 
