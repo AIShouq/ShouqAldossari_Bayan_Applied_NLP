@@ -1,0 +1,14 @@
+course: bayan-applied-nlp
+student_name: "Shouq Khalid Aldossari"
+student_github: AIShouq
+repository: https://github.com/AIShouq/ShouqAldossari_Bayan_Applied_NLP
+default_branch: main
+final_tag: submission-v1.0
+runtime: google-colab
+visibility: public
+notebook: Bayan_Capstone_Shouq_Aldossari.ipynb
+run_date: 2026-09-29
+result_label: MEASURED_SMOKE
+final_commit_sha: REPLACE_AFTER_LAST_COMMIT
+validator_preflight: REPLACE_AFTER_ACTUAL_CHECK
+private_window_visibility: REPLACE_AFTER_ACTUAL_CHECK

@@ -1,0 +1,35 @@
+{
+  "student_name": "Shouq Khalid Aldossari",
+  "student_github": "AIShouq",
+  "repository_url": "https://github.com/AIShouq/ShouqAldossari_Bayan_Applied_NLP",
+  "run_date": "2026-09-29",
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "tasks": [
+    "classification",
+    "sentiment",
+    "ner",
+    "qa",
+    "semantic_search"
+  ],
+  "notebook": "Bayan_Capstone_Shouq_Aldossari.ipynb",
+  "result_label": "MEASURED_SMOKE",
+  "benchmark_mode": "PROJECT_ARTIFACT",
+  "optimisation_decision": "ADOPT_ONNX_FP32",
+  "final_tag": "submission-v1.0",
+  "final_commit_sha": "REPLACE_AFTER_LAST_COMMIT",
+  "validator_preflight": "REPLACE_AFTER_ACTUAL_CHECK",
+  "private_window_visibility": "REPLACE_AFTER_ACTUAL_CHECK",
+  "privacy_check": true,
+  "technical_notebook_complete": true,
+  "final_repository_freeze_complete": false,
+  "extension": {
+    "name": "dialect_router",
+    "baseline_accuracy": 0.5,
+    "extension_accuracy": 0.7777777778,
+    "benefit": 0.2777777778,
+    "added_p95_ms": 0.087605
+  }
+}
